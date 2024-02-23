@@ -1,0 +1,441 @@
+idx,sentence,followup,stype,ftype,OP1,OP1_type,OP2,OP2_type
+0,I sometimes watch an action movie,because I like that particular movie.,S,F1,sometimes,QA,a/an,IND
+0,I sometimes watch an action movie,but it's a different one each time.,S,F2,sometimes,QA,a/an,IND
+0,I watched an action movie,because I like that particular movie.,Sc,F1,na_control,na_control,na_control,na_control
+0,I watched an action movie,but it's a different one each time.,Sc,F2,na_control,na_control,na_control,na_control
+2,I always wear a hat when it's sunny,as it's my favourite one.,S,F1,always,QA,a/an,IND
+2,I always wear a hat when it's sunny,although it's a different one each time.,S,F2,always,QA,a/an,IND
+2,I wore a hat when it was sunny,as it's my favourite one.,Sc,F1,na_control,na_control,na_control,na_control
+2,I wore a hat when it was sunny,although it's a different one each time.,Sc,F2,na_control,na_control,na_control,na_control
+3,I sometimes visit a restaurant in the mall,as I like that restaurant.,S,F1,sometimes,QA,a/an,IND
+3,I sometimes visit a restaurant in the mall,but it's a different one each time.,S,F2,sometimes,QA,a/an,IND
+3,I visited a restaurant in the mall,as I like that restaurant.,Sc,F1,na_control,na_control,na_control,na_control
+3,I visited a restaurant in the mall,but it's a different one each time.,Sc,F2,na_control,na_control,na_control,na_control
+4,I always carry a bag when I travel,as it's my favourite one.,S,F1,always,QA,a/an,IND
+4,I always carry a bag when I travel,although it's a different one each time.,S,F2,always,QA,a/an,IND
+4,I carried a bag when I travelled,as it's my favourite one.,Sc,F1,na_control,na_control,na_control,na_control
+4,I carried a bag when I travelled,although it's a different one each time.,Sc,F2,na_control,na_control,na_control,na_control
+5,I always drink a type of tea in the morning,as it's my favourite type of tea.,S,F1,always,QA,a/an,IND
+5,I always drink a type of tea in the morning,although it's a different type each time.,S,F2,always,QA,a/an,IND
+5,I drank a type of tea in the morning,as it's my favourite type of tea.,Sc,F1,na_control,na_control,na_control,na_control
+5,I drank a type of tea in the morning,although it's a different type each time.,Sc,F2,na_control,na_control,na_control,na_control
+7,I usually cook some dishes for dinner,because I love cooking those dishes.,S,F1,usually,QA,some,QD
+7,I usually cook some dishes for dinner,although it's a different set of dishes each time.,S,F2,usually,QA,some,QD
+7,I cooked some dishes for dinner,because I love cooking those dishes.,Sc,F1,na_control,na_control,na_control,na_control
+7,I cooked some dishes for dinner,although it's a different set of dishes each time.,Sc,F2,na_control,na_control,na_control,na_control
+8,I frequently watch a rom-com on the weekend,because it's my favourite rom-com.,S,F1,frequently,QA,a/an,IND
+8,I frequently watch a rom-com on the weekend,but it's a different rom-com each time.,S,F2,frequently,QA,a/an,IND
+8,I watched a rom-com on the weekend,because it's my favourite rom-com.,Sc,F1,na_control,na_control,na_control,na_control
+8,I watched a rom-com on the weekend,but it's a different rom-com each time.,Sc,F2,na_control,na_control,na_control,na_control
+9,I sometimes listen to a few songs while working,because I really like those songs.,S,F1,sometimes,QA,a few,QD
+9,I sometimes listen to a few songs while working,though it's different songs each time.,S,F2,sometimes,QA,a few,QD
+9,I listened to a few songs while working,because I really like those songs.,Sc,F1,na_control,na_control,na_control,na_control
+9,I listened to a few songs while working,though it's different songs each time.,Sc,F2,na_control,na_control,na_control,na_control
+10,I usually paint some pictures in my free time,because I enjoy painting those pictures.,S,F1,usually,QA,some,QD
+10,I usually paint some pictures in my free time,although it's a different set of pictures each time.,S,F2,usually,QA,some,QD
+10,I painted some pictures in my free time,because I enjoy painting those pictures.,Sc,F1,na_control,na_control,na_control,na_control
+10,I painted some pictures in my free time,although it's a different set of pictures each time.,Sc,F2,na_control,na_control,na_control,na_control
+11,I generally play with three dogs,because these three dogs are my pets.,S,F1,generally,QA,three,NMR
+11,I generally play with three dogs,although it's a different three dogs each time.,S,F2,generally,QA,three,NMR
+11,I played with three dogs,because these three dogs are my pets.,Sc,F1,na_control,na_control,na_control,na_control
+11,I played with three dogs,although it's a different three dogs each time.,Sc,F2,na_control,na_control,na_control,na_control
+13,I always wear a tie to work,as it's my favourite one.,S,F1,always,QA,a/an,IND
+13,I always wear a tie to work,although it's a different one each time.,S,F2,always,QA,a/an,IND
+13,I always wear this tie to work,as it's my favourite one.,Sc,F1,na_control,na_control,na_control,na_control
+13,I always wear this tie to work,although it's a different one each time.,Sc,F2,na_control,na_control,na_control,na_control
+14,I generally play with four cats,because these four cats are my pets.,S,F1,generally,QA,four,NMR
+14,I generally play with four cats,although it's a different set of cats each time.,S,F2,generally,QA,four,NMR
+14,I generally play with these four cats,because these four cats are my pets.,Sc,F1,na_control,na_control,na_control,na_control
+14,I generally play with these four cats,although it's a different set of cats each time.,Sc,F2,na_control,na_control,na_control,na_control
+15,I always read a book before bed,as it's my favourite one.,S,F1,always,QA,a/an,IND
+15,I always read a book before bed,although it's a different book each night.,S,F2,always,QA,a/an,IND
+15,I always read this book before bed,as it's my favourite one.,Sc,F1,na_control,na_control,na_control,na_control
+15,I always read this book before bed,although it's a different book each night.,Sc,F2,na_control,na_control,na_control,na_control
+16,I generally swim with two companions,because these two companions are my friends.,S,F1,generally,QA,two,NMR
+16,I generally swim with two companions,although it's rarely the same pair of companions each time.,S,F2,generally,QA,two,NMR
+16,I generally swim with these two companions,because these two companions are my friends.,Sc,F1,na_control,na_control,na_control,na_control
+16,I generally swim with these two companions,although it's rarely the same pair of companions each time.,Sc,F2,na_control,na_control,na_control,na_control
+17,I usually read a poem at night,because it's my favorite.,S,F1,usually,QA,a/an,IND
+17,I usually read a poem at night,but it's a different poem each time.,S,F2,usually,QA,a/an,IND
+17,I read this poem at night,because it's my favorite.,Sc,F1,na_control,na_control,na_control,na_control
+17,I read this poem at night,but it's a different poem each time.,Sc,F2,na_control,na_control,na_control,na_control
+18,I usually buy some books from the local store,since I find those books interesting.,S,F1,usually,QA,some,QD
+18,I usually buy some books from the local store,although it's a different set of books each time.,S,F2,usually,QA,some,QD
+18,I bought some books from the local store,since I find those books interesting.,Sc,F1,na_control,na_control,na_control,na_control
+18,I bought some books from the local store,although it's a different set of books each time.,Sc,F2,na_control,na_control,na_control,na_control
+20,I always run with most of my colleagues,because they are also my running mates.,S,F1,always,QA,most,QD
+20,I always run with most of my colleagues,even though it's a different set of colleagues each time.,S,F2,always,QA,most,QD
+20,I ran with most of my colleagues,because they are also my running mates.,Sc,F1,na_control,na_control,na_control,na_control
+20,I ran with most of my colleagues,even though it's a different set of colleagues each time.,Sc,F2,na_control,na_control,na_control,na_control
+21,I frequently watch some movies on Netflix,since I find these movies entertaining.,S,F1,frequently,QA,some,QD
+21,I frequently watch some movies on Netflix,although it's a different set of movies each time.,S,F2,frequently,QA,some,QD
+21,I frequently watch these movies on Netflix,since I find these movies entertaining.,Sc,F1,na_control,na_control,na_control,na_control
+21,I frequently watch these movies on Netflix,although it's a different set of movies each time.,Sc,F2,na_control,na_control,na_control,na_control
+22,I sometimes listen to a few songs from the 80s,because I really like these songs.,S,F1,sometimes,QA,a few,QD
+22,I sometimes listen to a few songs from the 80s,though it's a different set of songs each time.,S,F2,sometimes,QA,a few,QD
+22,I sometimes listen to these few songs from the 80s,because I really like these songs.,Sc,F1,na_control,na_control,na_control,na_control
+22,I sometimes listen to these few songs from the 80s,though it's a different set of songs each time.,Sc,F2,na_control,na_control,na_control,na_control
+23,I often visit some places in my city,because I find these places interesting.,S,F1,often,QA,some,QD
+23,I often visit some places in my city,even though they are different places each time.,S,F2,often,QA,some,QD
+23,I often visit these places in my city,because I find these places interesting.,Sc,F1,na_control,na_control,na_control,na_control
+23,I often visit these places in my city,even though they are different places each time.,Sc,F2,na_control,na_control,na_control,na_control
+24,I always drink at a bar in the evening,since it's my favourite bar.,S,F1,always,QA,a/an,IND
+24,I always drink at a bar in the evening,although it's a different bar each evening.,S,F2,always,QA,a/an,IND
+24,I always drink at this bar in the evening,since it's my favourite bar.,Sc,F1,na_control,na_control,na_control,na_control
+24,I always drink at this bar in the evening,although it's a different bar each evening.,Sc,F2,na_control,na_control,na_control,na_control
+25,I frequently read a few books from the library,because I enjoy these books.,S,F1,frequently,QA,a few,QD
+25,I frequently read a few books from the library,and they are different books each time.,S,F2,frequently,QA,a few,QD
+25,I frequently read these few books from the library,because I enjoy these books.,Sc,F1,na_control,na_control,na_control,na_control
+25,I frequently read these few books from the library,and they are different books each time.,Sc,F2,na_control,na_control,na_control,na_control
+26,I usually buy some groceries from the market,since I need those groceries for cooking.,S,F1,usually,QA,some,QD
+26,I usually buy some groceries from the market,although it's a different set of groceries each time.,S,F2,usually,QA,some,QD
+26,I bought some groceries from the market,since I need those groceries for cooking.,Sc,F1,na_control,na_control,na_control,na_control
+26,I bought some groceries from the market,although it's a different set of groceries each time.,Sc,F2,na_control,na_control,na_control,na_control
+27,I always play a game on my phone,as it's my favourite game.,S,F1,always,QA,a/an,IND
+27,I always play a game on my phone,although it's a different game each time.,S,F2,always,QA,a/an,IND
+27,I always play this game on my phone,as it's my favourite game.,Sc,F1,na_control,na_control,na_control,na_control
+27,I always play this game on my phone,although it's a different game each time.,Sc,F2,na_control,na_control,na_control,na_control
+29,I often listen to a few songs while working,because I enjoy these songs.,S,F1,often,QA,a few,QD
+29,I often listen to a few songs while working,and they are different songs each time.,S,F2,often,QA,a few,QD
+29,I often listen to these few songs while working,because I enjoy these songs.,Sc,F1,na_control,na_control,na_control,na_control
+29,I often listen to these few songs while working,and they are different songs each time.,Sc,F2,na_control,na_control,na_control,na_control
+30,I always order some dishes from the restaurant,since I like those dishes.,S,F1,always,QA,some,QD
+30,I always order some dishes from the restaurant,although it's a different set of dishes each time.,S,F2,always,QA,some,QD
+30,I ordered some dishes from the restaurant,since I like those dishes.,Sc,F1,na_control,na_control,na_control,na_control
+30,I ordered some dishes from the restaurant,although it's a different set of dishes each time.,Sc,F2,na_control,na_control,na_control,na_control
+31,I always cook with a few ingredients,since I like those ingredients.,S,F1,always,QA,a few,QD
+31,I always cook with a few ingredients,and it's a different group of ingredients each time.,S,F2,always,QA,a few,QD
+31,I cooked with a few ingredients,since I like those ingredients.,Sc,F1,na_control,na_control,na_control,na_control
+31,I cooked with a few ingredients,and it's a different group of ingredients each time.,Sc,F2,na_control,na_control,na_control,na_control
+32,I frequently swim with most of my friends,because they are also good swimmers.,S,F1,frequently,QA,most,QD
+32,I frequently swim with most of my friends,even though it's a different set of friends each time.,S,F2,frequently,QA,most,QD
+32,I swam with most of my friends,because they are also good swimmers.,Sc,F1,na_control,na_control,na_control,na_control
+32,I swam with most of my friends,even though it's a different set of friends each time.,Sc,F2,na_control,na_control,na_control,na_control
+33,I generally work with three colleagues,because the three colleagues are efficient.,S,F1,generally,QA,three,NMR
+33,I generally work with three colleagues,although it's a different trio of colleagues each time.,S,F2,generally,QA,three,NMR
+33,I generally work with these three colleagues,because the three colleagues are efficient.,Sc,F1,na_control,na_control,na_control,na_control
+33,I generally work with these three colleagues,although it's a different trio of colleagues each time.,Sc,F2,na_control,na_control,na_control,na_control
+34,I always run with a few friends,since they are also fitness enthusiasts.,S,F1,always,QA,a few,QD
+34,I always run with a few friends,though it's different friends each time.,S,F2,always,QA,a few,QD
+34,I always run with these few friends,since they are also fitness enthusiasts.,Sc,F1,na_control,na_control,na_control,na_control
+34,I always run with these few friends,though it's different friends each time.,Sc,F2,na_control,na_control,na_control,na_control
+36,I often travel with several friends,because I enjoy their company.,S,F1,often,QA,several,QD
+36,I often travel with several friends,even though it's a different group of friends each time.,S,F2,often,QA,several,QD
+36,I travelled with several friends,because I enjoy their company.,Sc,F1,na_control,na_control,na_control,na_control
+36,I travelled with several friends,even though it's a different group of friends each time.,Sc,F2,na_control,na_control,na_control,na_control
+37,I generally study with two classmates,because the two classmates are good study partners.,S,F1,generally,QA,two,NMR
+37,I generally study with two classmates,although it's a different pair of classmates each time.,S,F2,generally,QA,two,NMR
+37,I generally study with these two classmates,because the two classmates are good study partners.,Sc,F1,na_control,na_control,na_control,na_control
+37,I generally study with these two classmates,although it's a different pair of classmates each time.,Sc,F2,na_control,na_control,na_control,na_control
+38,I always watch a movie on the weekend,as it's my favorite movie.,S,F1,always,QA,a/an,IND
+38,I always watch a movie on the weekend,although it's a different movie each time.,S,F2,always,QA,a/an,IND
+38,I watched a movie on the weekend,as it's my favorite movie.,Sc,F1,na_control,na_control,na_control,na_control
+38,I watched a movie on the weekend,although it's a different movie each time.,Sc,F2,na_control,na_control,na_control,na_control
+39,I always listen to a podcast during my commute,as it's a great podcast.,S,F1,always,QA,a/an,IND
+39,I always listen to a podcast during my commute,but it's a different podcast each day.,S,F2,always,QA,a/an,IND
+39,I always listen to this podcast during my commute,as it's a great podcast.,Sc,F1,na_control,na_control,na_control,na_control
+39,I always listen to this podcast during my commute,but it's a different podcast each day.,Sc,F2,na_control,na_control,na_control,na_control
+40,I always bring some books when travelling,since I those particular books are interesting.,S,F1,always,QA,some,QD
+40,I always bring some books when travelling,although it's a different set of books each time.,S,F2,always,QA,some,QD
+40,I brought some books when travelling,since I those particular books are interesting.,Sc,F1,na_control,na_control,na_control,na_control
+40,I brought some books when travelling,although it's a different set of books each time.,Sc,F2,na_control,na_control,na_control,na_control
+41,I always carry some snacks when hiking,since I find those snacks tasty.,S,F1,always,QA,some,QD
+41,I always carry some snacks when hiking,although it's a different set of snacks each time.,S,F2,always,QA,some,QD
+41,I carried some snacks when hiking,since I find those snacks tasty.,Sc,F1,na_control,na_control,na_control,na_control
+41,I carried some snacks when hiking,although it's a different set of snacks each time.,Sc,F2,na_control,na_control,na_control,na_control
+42,I always wear a scarf during winter,as it's my favourite one.,S,F1,always,QA,a/an,IND
+42,I always wear a scarf during winter,though I don't always wear the same one.,S,F2,always,QA,a/an,IND
+42,I wore a scarf during winter,as it's my favourite one.,Sc,F1,na_control,na_control,na_control,na_control
+42,I wore a scarf during winter,though I don't always wear the same one.,Sc,F2,na_control,na_control,na_control,na_control
+43,Every bakery sells a type of bread,because it's a popular type of bread.,S,F1,every,QD,a/an,IND
+43,Every bakery sells a type of bread,and each type of bread is popular.,S,F2,every,QD,a/an,IND
+43,Every bakery sells this type of bread,because it's a popular type of bread.,Sc,F1,na_control,na_control,na_control,na_control
+43,Every bakery sells this type of bread,and each type of bread is popular.,Sc,F2,na_control,na_control,na_control,na_control
+44,Most students read a few books,as the books are informative.,S,F1,most,QD,a few,QD
+44,Most students read a few books,and each set of books is informative.,S,F2,most,QD,a few,QD
+44,Most students read these few books,as the books are informative.,Sc,F1,na_control,na_control,na_control,na_control
+44,Most students read these few books,and each set of books is informative.,Sc,F2,na_control,na_control,na_control,na_control
+46,Most athletes follow a specific diet,because it's a healthy diet.,S,F1,most,QD,a/an,IND
+46,Most athletes follow a specific diet,and these specific diets are healthy.,S,F2,most,QD,a/an,IND
+46,Most athletes follow this specific diet,because it's a healthy diet.,Sc,F1,na_control,na_control,na_control,na_control
+46,Most athletes follow this specific diet,and these specific diets are healthy.,Sc,F2,na_control,na_control,na_control,na_control
+47,Every school teaches a few subjects,as these subjects are important.,S,F1,every,QD,a few,QD
+47,Every school teaches a few subjects,and each set of subjects is important.,S,F2,every,QD,a few,QD
+47,Every school teaches these few subjects,as these subjects are important.,Sc,F1,na_control,na_control,na_control,na_control
+47,Every school teaches these few subjects,and each set of subjects is important.,Sc,F2,na_control,na_control,na_control,na_control
+48,Most restaurants serve a type of cuisine,because it's a popular type of cuisine.,S,F1,most,QD,a/an,IND
+48,Most restaurants serve a type of cuisine,and these cuisines are popular.,S,F2,most,QD,a/an,IND
+48,Most restaurants serve this type of cuisine,because it's a popular type of cuisine.,Sc,F1,na_control,na_control,na_control,na_control
+48,Most restaurants serve this type of cuisine,and these cuisines are popular.,Sc,F2,na_control,na_control,na_control,na_control
+50,A few students read some books,because the books are interesting.,S,F1,a few,QD,some,QD
+50,A few students read some books,and each set of books they read is interesting.,S,F2,a few,QD,some,QD
+50,A few students read these books,because the books are interesting.,Sc,F1,na_control,na_control,na_control,na_control
+50,A few students read these books,and each set of books they read is interesting.,Sc,F2,na_control,na_control,na_control,na_control
+51,Every bird builds a type of nest,as this type of nest is very comfortable.,S,F1,every,QD,a/an,IND
+51,Every bird builds a type of nest,and each type of nest is very comfortable.,S,F2,every,QD,a/an,IND
+51,Every bird builds this type of nest,as this type of nest is very comfortable.,Sc,F1,na_control,na_control,na_control,na_control
+51,Every bird builds this type of nest,and each type of nest is very comfortable.,Sc,F2,na_control,na_control,na_control,na_control
+52,Some teachers teach a few subjects,as the subjects are very important.,S,F1,some,QD,a few,QD
+52,Some teachers teach a few subjects,and each set of subjects is very important.,S,F2,some,QD,a few,QD
+52,Some teachers teach these subjects,as the subjects are very important.,Sc,F1,na_control,na_control,na_control,na_control
+52,Some teachers teach these subjects,and each set of subjects is very important.,Sc,F2,na_control,na_control,na_control,na_control
+53,Every car needs a mechanic,because the mechanic is very skilled.,S,F1,every,QD,a/an,IND
+53,Every car needs a mechanic,as long as the mechanics are very skilled.,S,F2,every,QD,a/an,IND
+53,Every car needs this mechanic,because the mechanic is very skilled.,Sc,F1,na_control,na_control,na_control,na_control
+53,Every car needs this mechanic,as long as the mechanics are very skilled.,Sc,F2,na_control,na_control,na_control,na_control
+54,Most students read a book,because the book is interesting.,S,F1,most,QD,a/an,IND
+54,Most students read a book,and the books are interesting.,S,F2,most,QD,a/an,IND
+54,Most students read this book,because the book is interesting.,Sc,F1,na_control,na_control,na_control,na_control
+54,Most students read this book,and the books are interesting.,Sc,F2,na_control,na_control,na_control,na_control
+57,Some painters use a few colors,as these colors are vibrant.,S,F1,some,QD,a few,QD
+57,Some painters use a few colors,and these sets of colors are vibrant.,S,F2,some,QD,a few,QD
+57,Some painters use these colors,as these colors are vibrant.,Sc,F1,na_control,na_control,na_control,na_control
+57,Some painters use these colors,and these sets of colors are vibrant.,Sc,F2,na_control,na_control,na_control,na_control
+58,Most birds eat some kinds of seeds,because these kinds of seeds are nutritious.,S,F1,most,QD,some,QD
+58,Most birds eat some kinds of seeds,and each set of seeds is nutritious.,S,F2,most,QD,some,QD
+58,Most birds eat these seeds,because these kinds of seeds are nutritious.,Sc,F1,na_control,na_control,na_control,na_control
+58,Most birds eat these seeds,and each set of seeds is nutritious.,Sc,F2,na_control,na_control,na_control,na_control
+59,Most students read a book,and the book is very informative.,S,F1,most,QD,a/an,IND
+59,Most students read a book,and the books are very informative.,S,F2,most,QD,a/an,IND
+59,Most students read this book,and the book is very informative.,Sc,F1,na_control,na_control,na_control,na_control
+59,Most students read this book,and the books are very informative.,Sc,F2,na_control,na_control,na_control,na_control
+61,Every artist paints a picture,and the picture is beautiful.,S,F1,every,QD,a/an,IND
+61,Every artist paints a picture,and the pictures are beautiful.,S,F2,every,QD,a/an,IND
+61,Every artist paints this picture,and the picture is beautiful.,Sc,F1,na_control,na_control,na_control,na_control
+61,Every artist paints this picture,and the pictures are beautiful.,Sc,F2,na_control,na_control,na_control,na_control
+62,Some drivers drive a few cars,as the cars are fast.,S,F1,some,QD,a few,QD
+62,Some drivers drive a few cars,and each set of cars is fast.,S,F2,some,QD,a few,QD
+62,Some drivers drive these cars,as the cars are fast.,Sc,F1,na_control,na_control,na_control,na_control
+62,Some drivers drive these cars,and each set of cars is fast.,Sc,F2,na_control,na_control,na_control,na_control
+64,Every phone has a screen protector,and the screen protector prevents scratches.,S,F1,every,QD,a/an,IND
+64,Every phone has a screen protector,and these different screen protectors prevent scratches.,S,F2,every,QD,a/an,IND
+64,Every phone has this screen protector,and the screen protector prevents scratches.,Sc,F1,na_control,na_control,na_control,na_control
+64,Every phone has this screen protector,and these different screen protectors prevent scratches.,Sc,F2,na_control,na_control,na_control,na_control
+65,Most cars have a GPS system,as this particular GPS system is highly accurate.,S,F1,most,QD,a/an,IND
+65,Most cars have a GPS system,and their different GPS systems are all highly accurate.,S,F2,most,QD,a/an,IND
+65,Most cars have this GPS system,as this particular GPS system is highly accurate.,Sc,F1,na_control,na_control,na_control,na_control
+65,Most cars have this GPS system,and their different GPS systems are all highly accurate.,Sc,F2,na_control,na_control,na_control,na_control
+66,Every city has a culture,that is found nowhere else.,S,F1,every,QD,a/an,IND
+66,Every city has a culture,that is common across the world.,S,F2,every,QD,a/an,IND
+66,Every city has this unique culture,that is found nowhere else.,Sc,F1,na_control,na_control,na_control,na_control
+66,Every city has this unique culture,that is common across the world.,Sc,F2,na_control,na_control,na_control,na_control
+67,Every book tells a story,that is the same at its core.,S,F1,every,QD,a/an,IND
+67,Every book tells a story,though the stories are all different.,S,F2,every,QD,a/an,IND
+67,Every book tells this story,that is the same at its core.,Sc,F1,na_control,na_control,na_control,na_control
+67,Every book tells this story,though the stories are all different.,Sc,F2,na_control,na_control,na_control,na_control
+68,All birds have a unique song,and the song is beautiful.,S,F1,all,QD,a/an,IND
+68,All birds have a unique song,and each bird's different kind of song is beautiful.,S,F2,all,QD,a/an,IND
+68,All birds have this unique song,and the song is beautiful.,Sc,F1,na_control,na_control,na_control,na_control
+68,All birds have this unique song,and each bird's different kind of song is beautiful.,Sc,F2,na_control,na_control,na_control,na_control
+69,Every student is reading a book,because the book is very interesting.,S,F1,every,QD,a/an,IND
+69,Every student is reading a book,and the books are very interesting.,S,F2,every,QD,a/an,IND
+69,Every student is reading this book,because the book is very interesting.,Sc,F1,na_control,na_control,na_control,na_control
+69,Every student is reading this book,and the books are very interesting.,Sc,F2,na_control,na_control,na_control,na_control
+70,Some chefs cook a dish,and the dish is delicious.,S,F1,some,QD,a/an,IND
+70,Some chefs cook a dish,and the different dishes are delicious.,S,F2,some,QD,a/an,IND
+70,Some chefs cook this dish,and the dish is delicious.,Sc,F1,na_control,na_control,na_control,na_control
+70,Some chefs cook this dish,and the different dishes are delicious.,Sc,F2,na_control,na_control,na_control,na_control
+71,You find every bird species in most parks,but other parks each only have a few of them.,S,F1,every,QD,most,QD
+71,You find every bird species in most parks,but don't expect to see all of them in the same park.,S,F2,every,QD,most,QD
+71,You find every bird species in this park,but other parks each only have a few of them.,Sc,F1,na_control,na_control,na_control,na_control
+71,You find every bird species in this park,but don't expect to see all of them in the same park.,Sc,F2,na_control,na_control,na_control,na_control
+72,Some local painters work with a few assistants,as the assistants are skilled.,S,F1,some,QD,a few,QD
+72,Some local painters work with a few assistants,and each of the painters' different sets of assistants is skilled.,S,F2,some,QD,a few,QD
+72,Some local painters work with these assistants,as the assistants are skilled.,Sc,F1,na_control,na_control,na_control,na_control
+72,Some local painters work with these assistants,and each of the painters' different sets of assistants is skilled.,Sc,F2,na_control,na_control,na_control,na_control
+73,You find every type of fish in most aquariums,but other aquariums each only have a few of them.,S,F1,every,QD,most,QD
+73,You find every type of fish in most aquariums,but don't expect to see all of them in the same aquarium.,S,F2,every,QD,most,QD
+73,You find every type of fish in this aquarium,but other aquariums each only have a few of them.,Sc,F1,na_control,na_control,na_control,na_control
+73,You find every type of fish in this aquarium,but don't expect to see all of them in the same aquarium.,Sc,F2,na_control,na_control,na_control,na_control
+75,Most birds fly to some types of trees,which are favored across different species of birds.,S,F1,most,QD,some,QD
+75,Most birds fly to some types of trees,though each flies to different types of tree.,S,F2,most,QD,some,QD
+75,Most birds fly to these types of trees,which are favored across different species of birds.,Sc,F1,na_control,na_control,na_control,na_control
+75,Most birds fly to these types of trees,though each flies to different types of tree.,Sc,F2,na_control,na_control,na_control,na_control
+76,Some musicians play with a few drummers,as the drummers are skilled.,S,F1,some,QD,a few,QD
+76,Some musicians play with a few drummers,and each musician's different set of drummers is skilled.,S,F2,some,QD,a few,QD
+76,Some musicians play with these drummers,as the drummers are skilled.,Sc,F1,na_control,na_control,na_control,na_control
+76,Some musicians play with these drummers,and each musician's different set of drummers is skilled.,Sc,F2,na_control,na_control,na_control,na_control
+77,Most bookstores exclusively sell a type of book,because it's a popular type of book.,S,F1,most,QD,a/an,IND
+77,Most bookstores exclusively sell a type of book,though it's a different type of book in each case.,S,F2,most,QD,a/an,IND
+77,Most bookstores exclusively sell this type of book,because it's a popular type of book.,Sc,F1,na_control,na_control,na_control,na_control
+77,Most bookstores exclusively sell this type of book,though it's a different type of book in each case.,Sc,F2,na_control,na_control,na_control,na_control
+78,Some gardeners grow a kind of plant,as this kind of plant is beautiful.,S,F1,some,QD,a/an,IND
+78,Some gardeners grow a kind of plant,though they don't grow the same kind.,S,F2,some,QD,a/an,IND
+78,Some gardeners grow this kind of plant,as this kind of plant is beautiful.,Sc,F1,na_control,na_control,na_control,na_control
+78,Some gardeners grow this kind of plant,though they don't grow the same kind.,Sc,F2,na_control,na_control,na_control,na_control
+79,Some actors work with a few directors,as the directors are experienced.,S,F1,some,QD,a few,QD
+79,Some actors work with a few directors,though they don't work with the same directors.,S,F2,some,QD,a few,QD
+79,Some actors work with these directors,as the directors are experienced.,Sc,F1,na_control,na_control,na_control,na_control
+79,Some actors work with these directors,though they don't work with the same directors.,Sc,F2,na_control,na_control,na_control,na_control
+80,Most supermarkets exclusively sell a brand of cereal,because it's a popular brand of cereal.,S,F1,most,QD,a/an,IND
+80,Most supermarkets exclusively sell a brand of cereal,but they don't sell the same brand of cereal.,S,F2,most,QD,a/an,IND
+80,Most supermarkets exclusively sell this brand of cereal,because it's a popular brand of cereal.,Sc,F1,na_control,na_control,na_control,na_control
+80,Most supermarkets exclusively sell this brand of cereal,but they don't sell the same brand of cereal.,Sc,F2,na_control,na_control,na_control,na_control
+81,All dogs love a certain toy,because the toy is very entertaining.,S,F1,all,QD,a/an,IND
+81,All dogs love a certain toy,but they don't love the same toy.,S,F2,all,QD,a/an,IND
+81,All dogs love this toy,because the toy is very entertaining.,Sc,F1,na_control,na_control,na_control,na_control
+81,All dogs love this toy,but they don't love the same toy.,Sc,F2,na_control,na_control,na_control,na_control
+82,All children love a certain game,because the game is very fun.,S,F1,all,QD,a/an,IND
+82,All children love a certain game,though it's a different game in ecah case.,S,F2,all,QD,a/an,IND
+82,All children love this game,because the game is very fun.,Sc,F1,na_control,na_control,na_control,na_control
+82,All children love this game,though it's a different game in ecah case.,Sc,F2,na_control,na_control,na_control,na_control
+83,Most musicians play a certain instrument,because the instrument is very versatile.,S,F1,most,QD,a/an,IND
+83,Most musicians play a certain instrument,though they don't play the same instrument.,S,F2,most,QD,a/an,IND
+83,Most musicians play this instrument,because the instrument is very versatile.,Sc,F1,na_control,na_control,na_control,na_control
+83,Most musicians play this instrument,though they don't play the same instrument.,Sc,F2,na_control,na_control,na_control,na_control
+84,You find every Harry Potter book in most bookstores,but some bookstores only have a few of them.,S,F1,every,QD,most,QD
+84,You find every Harry Potter book in most bookstores,but don't expect to see all of them in the same bookstore.,S,F2,every,QD,most,QD
+84,You find every Harry Potter book in this bookstore,but some bookstores only have a few of them.,Sc,F1,na_control,na_control,na_control,na_control
+84,You find every Harry Potter book in this bookstore,but don't expect to see all of them in the same bookstore.,Sc,F2,na_control,na_control,na_control,na_control
+85,Some professional athletes train with a few coaches,as the coaches are experienced.,S,F1,some,QD,a few,QD
+85,Some professional athletes train with a few coaches,and each athlete's separate set of coaches is experienced.,S,F2,some,QD,a few,QD
+85,Some professional athletes train with these coaches,as the coaches are experienced.,Sc,F1,na_control,na_control,na_control,na_control
+85,Some professional athletes train with these coaches,and each athlete's separate set of coaches is experienced.,Sc,F2,na_control,na_control,na_control,na_control
+86,Some chefs use a brand of knife,as this brand makes high quality knives.,S,F1,some,QD,a/an,IND
+86,Some chefs use a brand of knife,though they don't use the same brand.,S,F2,some,QD,a/an,IND
+86,Some chefs use this brand of knife,as this brand makes high quality knives.,Sc,F1,na_control,na_control,na_control,na_control
+86,Some chefs use this brand of knife,though they don't use the same brand.,Sc,F2,na_control,na_control,na_control,na_control
+87,Some gardeners own a shovel,and the shovel is sturdy.,S,F1,some,QD,a/an,IND
+87,Some gardeners own a shovel,and the shovels are sturdy.,S,F2,some,QD,a/an,IND
+87,Some gardeners own this shovel,and the shovel is sturdy.,Sc,F1,na_control,na_control,na_control,na_control
+87,Some gardeners own this shovel,and the shovels are sturdy.,Sc,F2,na_control,na_control,na_control,na_control
+88,I didn't support every decision made by the committee,because I thought they were all wrong.,S,F1,didn't,NEG,every,QD
+88,I didn't support every decision made by the committee,though I supported a few of them.,S,F2,didn't,NEG,every,QD
+88,I opposed every decision made by the committee,because I thought they were all wrong.,Sc,F1,na_control,na_control,na_control,na_control
+88,I opposed every decision made by the committee,though I supported a few of them.,Sc,F2,na_control,na_control,na_control,na_control
+89,I didn't hit most targets at the shooting range,"in fact, I only hit two out of ten targets.",S,F1,didn't,NEG,most,QD
+89,I didn't hit most targets at the shooting range,but I did hit around half of the targets.,S,F2,didn't,NEG,most,QD
+89,I missed most targets at the shooting range,"in fact, I only hit two out of ten targets.",Sc,F1,na_control,na_control,na_control,na_control
+89,I missed most targets at the shooting range,but I did hit around half of the targets.,Sc,F2,na_control,na_control,na_control,na_control
+90,She didn't see an issue with the project plan,and so the project had problems.,S,F1,didn't,NEG,a/an,IND
+90,She didn't see an issue with the project plan,because the project plan was flawless.,S,F2,didn't,NEG,a/an,IND
+90,She missed an issue with the project plan,and so the project had problems.,Sc,F1,na_control,na_control,na_control,na_control
+90,She missed an issue with the project plan,because the project plan was flawless.,Sc,F2,na_control,na_control,na_control,na_control
+91,I didn't agree with every point in the argument,as I found all of them to be flawed.,S,F1,didn't,NEG,every,QD
+91,I didn't agree with every point in the argument,though I agreed with some points.,S,F2,didn't,NEG,every,QD
+91,I disagreed with every point in the argument,as I found all of them to be flawed.,Sc,F1,na_control,na_control,na_control,na_control
+91,I disagreed with every point in the argument,though I agreed with some points.,Sc,F2,na_control,na_control,na_control,na_control
+92,I didn't recall a fact from the history lecture,even though it was an important fact.,S,F1,didn't,NEG,a/an,IND
+92,I didn't recall a fact from the history lecture,which is to say that I forgot all facts from the history lecture.,S,F2,didn't,NEG,a/an,IND
+92,I forgot a fact from the history lecture,even though it was an important fact.,Sc,F1,na_control,na_control,na_control,na_control
+92,I forgot a fact from the history lecture,which is to say that I forgot all facts from the history lecture.,Sc,F2,na_control,na_control,na_control,na_control
+93,I didn't answer most questions in the exam,"in fact, I only answered five out of twenty questions.",S,F1,didn't,NEG,most,QD
+93,I didn't answer most questions in the exam,but I did answer around half of the questions.,S,F2,didn't,NEG,most,QD
+93,I skipped most questions in the exam,"in fact, I only answered five out of twenty questions.",Sc,F1,na_control,na_control,na_control,na_control
+93,I skipped most questions in the exam,but I did answer around half of the questions.,Sc,F2,na_control,na_control,na_control,na_control
+94,He didn't find a mistake in the report,and so the report had to be revised.,S,F1,didn't,NEG,a/an,IND
+94,He didn't find a mistake in the report,because the report was perfect.,S,F2,didn't,NEG,a/an,IND
+94,He overlooked a mistake in the report,and so the report had to be revised.,Sc,F1,na_control,na_control,na_control,na_control
+94,He overlooked a mistake in the report,because the report was perfect.,Sc,F2,na_control,na_control,na_control,na_control
+95,I didn't finish four required tasks on Monday,even though I was supposed to complete them.,S,F1,didn't,NEG,four,NMR
+95,I didn't finish four required tasks on Monday,since I didn't have any tasks required.,S,F2,didn't,NEG,four,NMR
+95,I left four required tasks incomplete on Monday,even though I was supposed to complete them.,Sc,F1,na_control,na_control,na_control,na_control
+95,I left four required tasks incomplete on Monday,since I didn't have any tasks required.,Sc,F2,na_control,na_control,na_control,na_control
+96,I didn't approve of every decision made by the committee,as I found all of them to be flawed.,S,F1,didn't,NEG,every,QD
+96,I didn't approve of every decision made by the committee,though I agreed with some of them.,S,F2,didn't,NEG,every,QD
+96,I disapproved of every decision made by the committee,as I found all of them to be flawed.,Sc,F1,na_control,na_control,na_control,na_control
+96,I disapproved of every decision made by the committee,though I agreed with some of them.,Sc,F2,na_control,na_control,na_control,na_control
+97,I didn't meet a few of my old friends,even though I was supposed to meet them.,S,F1,didn't,NEG,a few,QD
+97,I didn't meet a few of my old friends,since there were no old friends to meet.,S,F2,didn't,NEG,a few,QD
+97,I avoided a few of my old friends,even though I was supposed to meet them.,Sc,F1,na_control,na_control,na_control,na_control
+97,I avoided a few of my old friends,since there were no old friends to meet.,Sc,F2,na_control,na_control,na_control,na_control
+98,I didn't recall a quote from the book To Kill a Mockingbird,even though the quote was really impactful.,S,F1,didn't,NEG,a/an,IND
+98,I didn't recall a quote from the book To Kill a Mockingbird,which is to say I didn't remember any quotes.,S,F2,didn't,NEG,a/an,IND
+98,I forgot a quote from the book To Kill a Mockingbird,even though the quote was really impactful.,Sc,F1,na_control,na_control,na_control,na_control
+98,I forgot a quote from the book To Kill a Mockingbird,which is to say I didn't remember any quotes.,Sc,F2,na_control,na_control,na_control,na_control
+99,I didn't accept two offers for the project,despite the fact that my manager told me to accept them.,S,F1,didn't,NEG,two,NMR
+99,I didn't accept two offers for the project,because there were no offers in the first place.,S,F2,didn't,NEG,two,NMR
+99,I rejected two offers for the project,despite the fact that my manager told me to accept them.,Sc,F1,na_control,na_control,na_control,na_control
+99,I rejected two offers for the project,because there were no offers in the first place.,Sc,F2,na_control,na_control,na_control,na_control
+100,I didn't support all the policies of the government,as I found them to be unjust.,S,F1,didn't,NEG,all,QD
+100,I didn't support all the policies of the government,though I approved of some of them.,S,F2,didn't,NEG,all,QD
+100,I opposed all the policies of the government,as I found them to be unjust.,Sc,F1,na_control,na_control,na_control,na_control
+100,I opposed all the policies of the government,though I approved of some of them.,Sc,F2,na_control,na_control,na_control,na_control
+101,He didn't remember a scene from the movie Inception,even though the scene was really famous.,S,F1,didn't,NEG,a/an,IND
+101,He didn't remember a scene from the movie Inception,which is to say he didn't remember anything from the movie.,S,F2,didn't,NEG,a/an,IND
+101,He forgot a scene from the movie Inception,even though the scene was really famous.,Sc,F1,na_control,na_control,na_control,na_control
+101,He forgot a scene from the movie Inception,which is to say he didn't remember anything from the movie.,Sc,F2,na_control,na_control,na_control,na_control
+102,I didn't reject four proposals for the campaign,despite the fact that my director told me to reject them.,S,F1,didn't,NEG,four,NMR
+102,I didn't reject four proposals for the campaign,because there were no proposals in the first place.,S,F2,didn't,NEG,four,NMR
+102,I accepted four proposals for the campaign,despite the fact that my director told me to reject them.,Sc,F1,na_control,na_control,na_control,na_control
+102,I accepted four proposals for the campaign,because there were no proposals in the first place.,Sc,F2,na_control,na_control,na_control,na_control
+103,I didn't prevent some students from cheating on the test,although I saw them exchanging notes.,S,F1,didn't,NEG,some,QD
+103,I didn't prevent some students from cheating on the test,because no students even tried to cheat in the first place.,S,F2,didn't,NEG,some,QD
+103,I allowed some students to cheat on the test,although I saw them exchanging notes.,Sc,F1,na_control,na_control,na_control,na_control
+103,I allowed some students to cheat on the test,because no students even tried to cheat in the first place.,Sc,F2,na_control,na_control,na_control,na_control
+104,I didn't read all the chapters of the book,which is to say I didn't read any of them.,S,F1,didn't,NEG,all,QD
+104,I didn't read all the chapters of the book,though I read most of them.,S,F2,didn't,NEG,all,QD
+104,I skipped all the chapters of the book,which is to say I didn't read any of them.,Sc,F1,na_control,na_control,na_control,na_control
+104,I skipped all the chapters of the book,though I read most of them.,Sc,F2,na_control,na_control,na_control,na_control
+106,She didn't spot a mistake in the report,and so the report had incorrect information.,S,F1,didn't,NEG,a/an,IND
+106,She didn't spot a mistake in the report,because the report had no mistakes.,S,F2,didn't,NEG,a/an,IND
+106,She overlooked a mistake in the report,and so the report had incorrect information.,Sc,F1,na_control,na_control,na_control,na_control
+106,She overlooked a mistake in the report,because the report had no mistakes.,Sc,F2,na_control,na_control,na_control,na_control
+107,He didn't find an issue with the system,and so the system didn't function properly.,S,F1,didn't,NEG,a/an,IND
+107,He didn't find an issue with the system,because the system had no issues.,S,F2,didn't,NEG,a/an,IND
+107,He overlooked an issue with the system,and so the system didn't function properly.,Sc,F1,na_control,na_control,na_control,na_control
+107,He overlooked an issue with the system,because the system had no issues.,Sc,F2,na_control,na_control,na_control,na_control
+108,I didn't remember all the groceries on the list,and so I didn't buy any of them.,S,F1,didn't,NEG,all,QD
+108,I didn't remember all the groceries on the list,but I did remember most of them.,S,F2,didn't,NEG,all,QD
+108,I forgot all the groceries on the list,and so I didn't buy any of them.,Sc,F1,na_control,na_control,na_control,na_control
+108,I forgot all the groceries on the list,but I did remember most of them.,Sc,F2,na_control,na_control,na_control,na_control
+109,I didn't answer all the questions in the exam,and so I got 0 marks on the exam.,S,F1,didn't,NEG,all,QD
+109,I didn't answer all the questions in the exam,though I did answer most of them.,S,F2,didn't,NEG,all,QD
+109,I ignored all the questions in the exam,and so I got 0 marks on the exam.,Sc,F1,na_control,na_control,na_control,na_control
+109,I ignored all the questions in the exam,though I did answer most of them.,Sc,F2,na_control,na_control,na_control,na_control
+110,I didn't solve two algebra problems in the test,even though I knew the solutions to them.,S,F1,didn't,NEG,two,NMR
+110,I didn't solve two algebra problems in the test,because there weren't even any algebra problems in the test.,S,F2,didn't,NEG,two,NMR
+110,I messed up two algebra problems in the test,even though I knew the solutions to them.,Sc,F1,na_control,na_control,na_control,na_control
+110,I messed up two algebra problems in the test,because there weren't even any algebra problems in the test.,Sc,F2,na_control,na_control,na_control,na_control
+111,I didn't eat all the cookies in the jar,which is to say I didn't eat even one of them.,S,F1,didn't,NEG,all,QD
+111,I didn't eat all the cookies in the jar,though I did eat most of them.,S,F2,didn't,NEG,all,QD
+111,I stayed off all the cookies in the jar,which is to say I didn't eat even one of them.,Sc,F1,na_control,na_control,na_control,na_control
+111,I stayed off all the cookies in the jar,though I did eat most of them.,Sc,F2,na_control,na_control,na_control,na_control
+112,I didn't read every book in the library,as none of them were appealing.,S,F1,didn't,NEG,every,QD
+112,I didn't read every book in the library,though I read most of them.,S,F2,didn't,NEG,every,QD
+112,I skipped every book in the library,as none of them were appealing.,Sc,F1,na_control,na_control,na_control,na_control
+112,I skipped every book in the library,though I read most of them.,Sc,F2,na_control,na_control,na_control,na_control
+113,I didn't complete several tasks at work today,because those tasks were too difficult.,S,F1,didn't,NEG,several,QD
+113,I didn't complete several tasks at work today,because I didn't have any tasks assigned to me today.,S,F2,didn't,NEG,several,QD
+113,I abandoned several tasks at work today,because those tasks were too difficult.,Sc,F1,na_control,na_control,na_control,na_control
+113,I abandoned several tasks at work today,because I didn't have any tasks assigned to me today.,Sc,F2,na_control,na_control,na_control,na_control
+114,I didn't pass three exams this semester,even though I studied hard for them.,S,F1,didn't,NEG,three,NMR
+114,I didn't pass three exams this semester,since I didn't take any exams this semester.,S,F2,didn't,NEG,three,NMR
+114,I failed three exams this semester,even though I studied hard for them.,Sc,F1,na_control,na_control,na_control,na_control
+114,I failed three exams this semester,since I didn't take any exams this semester.,Sc,F2,na_control,na_control,na_control,na_control
+115,I didn't answer most questions in the quiz,and only answered a few.,S,F1,didn't,NEG,most,QD
+115,I didn't answer most questions in the quiz,but I did answer about half.,S,F2,didn't,NEG,most,QD
+115,I skipped most questions in the quiz,and only answered a few.,Sc,F1,na_control,na_control,na_control,na_control
+115,I skipped most questions in the quiz,but I did answer about half.,Sc,F2,na_control,na_control,na_control,na_control
+117,I didn't consume two vitamin supplements with breakfast,even though I need to have them.,S,F1,didn't,NEG,two,NMR
+117,I didn't consume two vitamin supplements with breakfast,because I don't consume any vitamin supplements.,S,F2,didn't,NEG,two,NMR
+117,I skipped two vitamin supplements with breakfast,even though I need to have them.,Sc,F1,na_control,na_control,na_control,na_control
+117,I skipped two vitamin supplements with breakfast,because I don't consume any vitamin supplements.,Sc,F2,na_control,na_control,na_control,na_control
+118,I didn't meet a few old friends at the conference,even though they were expecting me.,S,F1,didn't,NEG,a few,QD
+118,I didn't meet a few old friends at the conference,since there were no old friends at the conference.,S,F2,didn't,NEG,a few,QD
+118,I avoided a few old friends at the reunion,even though they were expecting me.,Sc,F1,na_control,na_control,na_control,na_control
+118,I avoided a few old friends at the reunion,since there were no old friends at the conference.,Sc,F2,na_control,na_control,na_control,na_control
+119,I didn't watch most of the football match,as I only watched a few minutes of it.,S,F1,didn't,NEG,most,QD
+119,I didn't watch most of the football match,though I did watch half of the match.,S,F2,didn't,NEG,most,QD
+119,I missed most of the football match,as I only watched a few minutes of it.,Sc,F1,na_control,na_control,na_control,na_control
+119,I missed most of the football match,though I did watch half of the match.,Sc,F2,na_control,na_control,na_control,na_control
+120,I didn't finish four projects this week,even though I was supposed to finish them.,S,F1,didn't,NEG,four,NMR
+120,I didn't finish four projects this week,since I didn't have any projects to work on.,S,F2,didn't,NEG,four,NMR
+120,I abandoned four projects this week,even though I was supposed to finish them.,Sc,F1,na_control,na_control,na_control,na_control
+120,I abandoned four projects this week,since I didn't have any projects to work on.,Sc,F2,na_control,na_control,na_control,na_control
+121,I didn't talk to a few senior managers at the meeting,even though they tried to engage me in conversation.,S,F1,didn't,NEG,a few,QD
+121,I didn't talk to a few senior managers at the meeting,since there were no senior managers at the meeting.,S,F2,didn't,NEG,a few,QD
+121,I ignored a few senior managers at the meeting,even though they tried to engage me in conversation.,Sc,F1,na_control,na_control,na_control,na_control
+121,I ignored a few senior managers at the meeting,since there were no senior managers at the meeting.,Sc,F2,na_control,na_control,na_control,na_control
+122,I didn't read a book about hockey in Jamaica,because the topic didn't interest me.,S,F1,didn't,NEG,a/an,IND
+122,I didn't read a book about hockey in Jamaica,since there is no such book.,S,F2,didn't,NEG,a/an,IND
+122,I skipped a book about hockey in Jamaica,because the topic didn't interest me.,Sc,F1,na_control,na_control,na_control,na_control
+122,I skipped a book about hockey in Jamaica,since there is no such book.,Sc,F2,na_control,na_control,na_control,na_control
+124,I didn't attend a lecture on philosophy,although it seemed interesting.,S,F1,didn't,NEG,a/an,IND
+124,I didn't attend a lecture on philosophy,since there was no such lecture.,S,F2,didn't,NEG,a/an,IND
+124,I skipped a lecture on philosophy,although it seemed interesting.,Sc,F1,na_control,na_control,na_control,na_control
+124,I skipped a lecture on philosophy,since there was no such lecture.,Sc,F2,na_control,na_control,na_control,na_control
+125,I didn't bring all the documents,so I arrived with none of them.,S,F1,didn't,NEG,all,QD
+125,I didn't bring all the documents,but I did bring most of them.,S,F2,didn't,NEG,all,QD
+125,I forgot all of the documents,so I arrived with none of them.,Sc,F1,na_control,na_control,na_control,na_control
+125,I forgot all of the documents,but I did bring most of them.,Sc,F2,na_control,na_control,na_control,na_control

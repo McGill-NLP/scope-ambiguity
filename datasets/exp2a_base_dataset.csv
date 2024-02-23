@@ -1,0 +1,117 @@
+idx,sentence,followup,stype,ftype,OP1,OP1_type,OP2,OP2_type
+26,I didn't feed a dog,even though I was supposed to feed him.,S,F1,didn't,NEG,a/an,IND
+26,I didn't feed a dog,because there was no dog to feed. ,S,F2,didn't,NEG,a/an,IND
+26,I starved a dog,even though I was supposed to feed him.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+26,I starved a dog,because there was no dog to feed. ,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+27,I didn't remember a joke told on the TV show Hannibal,even though the joke was really funny.,S,F1,didn't,NEG,a/an,IND
+27,I didn't remember a joke told on the TV show Hannibal,mostly because it's a serious drama with barely any jokes.,S,F2,didn't,NEG,a/an,IND
+27,I forgot a joke told on the TV show Hannibal,even though the joke was really funny.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+27,I forgot a joke told on the TV show Hannibal,mostly because it's a serious drama with barely any jokes.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+28,I didn't notice an error in my code,and so my code didn't work properly.,S,F1,didn't,NEG,a/an,IND
+28,I didn't notice an error in my code,because my code had no errors.,S,F2,didn't,NEG,a/an,IND
+28,I overlooked an error in my code,and so my code didn't work properly.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+28,I overlooked an error in my code,because my code had no errors.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+29,I didn't shake hands with a few professors,even though I was supposed to shake hands with them.,S,F1,didn't,NEG,a few,QD
+29,I didn't shake hands with a few professors,since there were no professors to shake hands with.,S,F2,didn't,NEG,a few,QD
+29,I ignored a few professors,even though I was supposed to shake hands with them.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+29,I ignored a few professors,since there were no professors to shake hands with.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+31,I didn't like all the books on sale,which is to say I enjoyed none of them.,S,F1,didn't,NEG,all,QD
+31,I didn't like all the books on sale,which is to say I enjoyed only a few of them.,S,F2,didn't,NEG,all,QD
+31,I disliked all the books on sale,which is to say I enjoyed none of them.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+31,I disliked all the books on sale,which is to say I enjoyed only a few of them.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+32,I didn't stop some people from leaving the office early on Friday,although I could have stopped them from doing so.,S,F1,didn't,NEG,some,QD
+32,I didn't stop some people from leaving the office early on Friday,because there's wasn't even anyone at the office on Friday.,S,F2,didn't,NEG,some,QD
+32,I allowed some people to leave the office early on Friday,although I could have stopped them from doing so.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+32,I allowed some people to leave the office early on Friday,because there's wasn't even anyone at the office on Friday.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+34,I didn't pass all of my exams,"in other words, I got a grade of F in all of them.",S,F1,didn't,NEG,all,QD
+34,I didn't pass all of my exams,since I failed two of my six exams.,S,F2,didn't,NEG,all,QD
+34,I failed all of my exams,"in other words, I got a grade of F in all of them.",Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+34,I failed all of my exams,since I failed two of my six exams.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+35,I didn't reveal several secret addictions I have to my family,because I thought I would be judged for having them.,S,F1,didn't,NEG,several,QD
+35,I didn't reveal several secret addictions I have to my family,because I don't have any secret addictions in the first place.,S,F2,didn't,NEG,several,QD
+35,I hid several secret addictions I have from my family,because I thought I would be judged for having them.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+35,I hid several secret addictions I have from my family,because I don't have any secret addictions in the first place.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+37,I didn't travel to two ski resorts this summer,even though I was supposed to go to them.,S,F1,didn't,NEG,two,NMR
+37,I didn't travel to two ski resorts this summer,because I didn't go anywhere.,S,F2,didn't,NEG,two,NMR
+37,I avoided two resorts this summer,even though I was supposed to go to them.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+37,I avoided two resorts this summer,because I didn't go anywhere.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+38,I didn't win five games of tennis on Saturday,even though I was supposed to win them.,S,F1,didn't,NEG,five,NMR
+38,I didn't win five games of tennis on Saturday,since I didn't play any tennis on Saturday.,S,F2,didn't,NEG,five,NMR
+38,I lost five games of tennis on Saturday,even though I was supposed to win them.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+38,I lost five games of tennis on Saturday,since I didn't play any tennis on Saturday.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+39,I didn't reject three applications for the job,despite the fact that my boss told me to reject them.,S,F1,didn't,NEG,three ,NMR
+39,I didn't reject three applications for the job,because there were no applications in the first place.,S,F2,didn't,NEG,three ,NMR
+39,I accepted three applications for the job,despite the fact that my boss told me to reject them.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+39,I accepted three applications for the job,because there were no applications in the first place.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+40,I sometimes see a carpenter from my window,and I'm actually friends with that carpenter.,S,F1,sometimes,QA,a/an,IND
+40,I sometimes see a carpenter from my window,but it's a different one each time.,S,F2,sometimes,QA,a/an,IND
+40,I saw a carpenter from my window,and I'm actually friends with that carpenter.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+40,I saw a carpenter from my window,but it's a different one each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+42,I sometimes like most songs on Mario's playlist,"because they're hip-hop songs, and now and then I enjoy hip-hop.",S,F1,sometimes,QA,most,QD
+42,I sometimes like most songs on Mario's playlist,even though it's a different set of songs each time.,S,F2,sometimes,QA,most,QD
+42,I liked most songs on Mario's playlist,"because they're hip-hop songs, and now and then I enjoy hip-hop.",Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+42,I liked most songs on Mario's playlist,even though it's a different set of songs each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+44,I occasionally consult two dentists,since I trust the two dentists.,S,F1,occasionally,QA,two,NMR
+44,I occasionally consult two dentists,although it's a different pair of dentists each time.,S,F2,occasionally,QA,two,NMR
+44,I consulted two dentists,since I trust the two dentists.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+44,I consulted two dentists,although it's a different pair of dentists each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+45,I usually hammer a wall in the morning,because I'm trying to damage that wall.,S,F1,usually,QA,a/an,IND
+45,I usually hammer a wall in the morning,but it's a different wall each time.,S,F2,usually,QA,a/an,IND
+45,I hammered a wall in the morning,because I'm trying to damage that wall.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+45,I hammered a wall in the morning,but it's a different wall each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+46,I usually dust some shelves at home,because I enjoy cleaning those shelves.,S,F1,usually,QA,some,QD
+46,I usually dust some shelves at home,although it's a different set of shelves each time.,S,F2,usually,QA,some,QD
+46,I dusted some shelves at home,because I enjoy cleaning those shelves.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+46,I dusted some shelves at home,although it's a different set of shelves each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+47,I frequently greet most people in my lab,since I like them even outside work.,S,F1,frequently,QA,most,QD
+47,I frequently greet most people in my lab,even though it's a different set of people each time.,S,F2,frequently,QA,most,QD
+47,I greeted most people in my lab,since I like them even outside work.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+47,I greeted most people in my lab,even though it's a different set of people each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+48,I often drink every bottle in the shared fridge,as I like those specific drinks.,S,F1,often,QA,every,QD
+48,I often drink every bottle in the shared fridge,despite the fact that it's a different set of drinks each time.,S,F2,often,QA,every,QD
+48,I drank every bottle in the shared fridge,as I like those specific drinks.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+48,I drank every bottle in the shared fridge,despite the fact that it's a different set of drinks each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+49,I generally spar with two boxers,because the two boxers are good training partners.,S,F1,generally,QA,two,NMR
+49,I generally spar with two boxers,although it's a different pair of boxers each time.,S,F2,generally,QA,two,NMR
+49,I sparred with two boxers,because the two boxers are good training partners.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+49,I sparred with two boxers,although it's a different pair of boxers each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+50,I always wear a jacket before going out,as it's my favourite one.,S,F1,always,QA,a/an,IND
+50,I always wear a jacket before going out,although it's a different one each time.,S,F2,always,QA,a/an,IND
+50,I wore a jacket before going out,as it's my favourite one.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+50,I wore a jacket before going out,although it's a different one each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+51,I always rent some pieces of gear before climbing,since I find those pieces of gear helpful.,S,F1,always,QA,some,QD
+51,I always rent some pieces of gear before climbing,although it's a different set of pieces of gear each time.,S,F2,always,QA,some,QD
+51,I rented some pieces of gear before climbing,since I find those pieces of gear helpful.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+51,I rented some pieces of gear before climbing,although it's a different set of pieces of gear each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+53,I always buy four lamps from IKEA,because I love those four designs.,S,F1,always,QA,four,NMR
+53,I always buy four lamps from IKEA,but it's a different four each time.,S,F2,always,QA,four,NMR
+53,I bought four lamps from IKEA,because I love those four designs.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+53,I bought four lamps from IKEA,but it's a different four each time.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+54,Some farmers own a donkey,and the donkey is happy.,S,F1,some,QD,a/an,IND
+54,Some farmers own a donkey,and their donkeys are happy.,S,F2,some,QD,a/an,IND
+54,Some farmers own this donkey,and the donkey is happy.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+54,Some farmers own this donkey,and their donkeys are happy.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+55,Some local guitarists play with a few backing vocalists,as the backing vocalists are talented.,S,F1,some,QD,a few,QD
+55,Some local guitarists play with a few backing vocalists,and each set of backing vocalists is talented.,S,F2,some,QD,a few,QD
+55,Some local guitarists play with these backing vocalists,as the backing vocalists are talented.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+55,Some local guitarists play with these backing vocalists,and each set of backing vocalists is talented.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+58,Some textbooks cite three authors on colonialism,because the three of them are highly regarded.,S,F1,some,QD,three ,NMR
+58,Some textbooks cite three authors on colonialism,and each trio of authors is well-respected.,S,F2,some,QD,three ,NMR
+58,Some textbooks cite these three authors on colonialism,because the three of them are highly regarded.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+58,Some textbooks cite these three authors on colonialism,and each trio of authors is well-respected.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+59,Most fast-food chains exclusively sell a brand of soda,because it's a popular brand of soda.,S,F1,most,QD,a/an,IND
+59,Most fast-food chains exclusively sell a brand of soda,"and in each case, the brand of soda is popular.",S,F2,most,QD,a/an,IND
+59,Most fast-food chains exclusively sell this brand of soda,because it's a popular brand of soda.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+59,Most fast-food chains exclusively sell this brand of soda,"and in each case, the brand of soda is popular.",Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+62,Most graduate students shop from two thrift stores,and I'm sure the two thrift stores offer great deals.,S,F1,most,QD,two,NMR
+62,Most graduate students shop from two thrift stores,and I'm sure each pair of thrift stores offers great deals.,S,F2,most,QD,two,NMR
+62,Most graduate students shop from these two thrift stores,and I'm sure the two thrift stores offer great deals.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+62,Most graduate students shop from these two thrift stores,and I'm sure each pair of thrift stores offers great deals.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+64,All urban planners eat a few boxes of pizza,because we don't have enough pizza to go around.,S,F1,all,QD,a few,QD
+64,All urban planners eat a few boxes of pizza,because we have more than enough pizza to go around.,S,F2,all,QD,a few,QD
+64,All urban planners eat just these few boxes of pizza,because we don't have enough pizza to go around.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+64,All urban planners eat just these few boxes of pizza,because we have more than enough pizza to go around.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+66,All students are supervised by two professors,since we don't have enough professors.,S,F1,all,QD,two,NMR
+66,All students are supervised by two professors,since we have more than enough professors.,S,F2,all,QD,two,NMR
+66,All students are supervised by these two professors,since we don't have enough professors.,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
+66,All students are supervised by these two professors,since we have more than enough professors.,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL
