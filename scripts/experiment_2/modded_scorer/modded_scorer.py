@@ -1,3 +1,8 @@
+# Edited version of the `scorer` class from Kanishka Misra's minicons package.
+# Kanishka Misra: https://kanishka.website/
+# minicons: https://github.com/kanishkamisra/minicons
+
+
 """Utilities for scoring sequences using Language Models."""
 from typing import Iterable, Union, List, Dict, Optional, Callable, Tuple, Any
 
