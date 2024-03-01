@@ -1,0 +1,13 @@
+{
+"Llama-2 7B":{"source": "huggingface", "type":"completion", "model_name": "meta-llama/Llama-2-7b-hf", "quantization": 0},
+"Llama-2 7B Chat":{"source": "huggingface", "type":"chat", "model_name": "meta-llama/Llama-2-7b-chat-hf", "quantization": 0},
+"Llama-2 13B":{"source": "huggingface", "type":"completion", "model_name": "meta-llama/Llama-2-7b-hf", "quantization": 0},
+"Llama-2 13B Chat":{"source": "huggingface", "type":"chat", "model_name": "meta-llama/Llama-2-7b-chat-hf", "quantization": 0},
+"Llama-2 70B":{"source": "huggingface", "type":"completion", "model_name": "meta-llama/Llama-2-7b-hf", "quantization": 1},
+"Llama-2 70B Chat":{"source": "huggingface", "type":"chat", "model_name": "meta-llama/Llama-2-7b-chat-hf", "quantization": 1},
+"GPT-3.5 davinci":{"source": "openai", "type":"completion", "model_name": "davinci", "quantization": 0},
+"GPT-3.5 td-002":{"source": "openai", "type":"completion", "model_name": "text-davinci-002", "quantization": 0},
+"GPT-3.5 td-003":{"source": "openai", "type":"completion", "model_name": "text-davinci-003", "quantization": 0},
+"GPT-3.5 Turbo":{"source": "openai", "type":"chat", "model_name": "gpt-3.5-turbo", "quantization": 0},
+"GPT-4":{"source": "openai", "type":"chat", "model_name": "gpt-4", "quantization": 0}
+}

@@ -1,0 +1,15 @@
+{
+"GPT-2":{"source": "huggingface", "model_name": "gpt2", "quantization": 0},
+"GPT-2 Medium":{"source": "huggingface", "model_name": "gpt2-medium", "quantization": 0},
+"GPT-2 Large":{"source": "huggingface", "model_name": "gpt2-large", "quantization": 0},
+"GPT-2 XL":{"source": "huggingface", "model_name": "gpt2-xl", "quantization": 0},
+"Llama-2 7B":{"source": "huggingface", "model_name": "meta-llama/Llama-2-7b-hf", "quantization": 0},
+"Llama-2 7B Chat":{"source": "huggingface", "model_name": "meta-llama/Llama-2-7b-chat-hf", "quantization": 0},
+"Llama-2 13B":{"source": "huggingface", "model_name": "meta-llama/Llama-2-13b-hf", "quantization": 0},
+"Llama-2 13B Chat":{"source": "huggingface", "model_name": "meta-llama/Llama-2-13b-chat-hf", "quantization": 0},
+"Llama-2 70B":{"source": "huggingface", "model_name": "meta-llama/Llama-2-70b-hf", "quantization": 1},
+"Llama-2 70B Chat":{"source": "huggingface", "model_name": "meta-llama/Llama-2-70b-chat-hf", "quantization": 1},
+"GPT-3.5 davinci":{"source": "openai", "model_name": "davinci", "quantization": 0},
+"GPT-3.5 td-002":{"source": "openai", "model_name": "text-davinci-002", "quantization": 0},
+"GPT-3.5 td-003":{"source": "openai", "model_name": "text-davinci-003", "quantization": 0}
+}
