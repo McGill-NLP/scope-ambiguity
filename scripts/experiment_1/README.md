@@ -9,4 +9,7 @@ This folder contains the script and .json file used to obtain results for Experi
     * `model_name`: the model's official name on Huggingface or the OpenAI API
     * `quantization`: 0 or 1; whether the model should be loaded in 8-bit or not
 
-**Note**: The scripts for obtaining model results do not currently 
+**Note**: The scripts for obtaining model results do not currently have newly generated data overwrite previously generated data at the old OUTPUT_FILE_PATH. 
+Instead, when run, the script will first read in any data already present at the OUTPUT_FILE_PATH, and only add new data for any new models that aren't present in the data at the output file location.
+This was done so that in case of any errors (such as API outages) that prematurely kill the script, re-running the script will have it simply pick up where it left off, without starting over from scratch.
+But if you've already run the script once and would like to re-generate the same data, make sure to either specify a different OUTPUT_FILE_PATH, or delete the previously generated data first. 
