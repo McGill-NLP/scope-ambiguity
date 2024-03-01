@@ -1,7 +1,7 @@
 ## Scripts
 This folder contains the scripts used to generate the model results and data presented in the paper.
 
-  * `analysis`: the script used to calculate the figures/statistics presented in the paper.
+  * `analysis.py`: the script used to calculate the figures/statistics presented in the paper.
   * `dataset_expansion`: contains the script used to expand the Experiment 1A and 2A datasets with the help of GPT-4.
   * `experiment_1`: contains scripts used to obtain the results presented in Experiment 1A and 1B of the paper.
   * `experiment_2`: contains scripts used to obtain the results presented in Experiment 2A and 2B of the paper.
