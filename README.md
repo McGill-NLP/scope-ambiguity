@@ -9,7 +9,7 @@ Note that the dataset used in Experiment 1A of the paper, based on the corpus pr
 To be accessed, it therefore requires permission from copyright holders of the 2012 corpus: Law School Admission Council and Adrian Brasoveanu.
 Upon receiving permission, contact the first author to receive all related data.
 
-All other data from the paper is in this repository and may be freely used.
+All other data from the paper is in this repository and may be freely used in accordance with the MIT license this repository is subject to.
 
 ### Contents
   * `datasets`: Final datasets used for obtaining model results.
