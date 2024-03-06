@@ -183,12 +183,12 @@ present_exp2_analyses(path_to_exp2b_model_results, path_to_exp2b_human_results)
 ###################################### Liu et al. Follow-up #################################################
 #############################################################################################################
 
-path_to_TF_results = "scripts/liu_et_al_evaluation/TF_evaluation_data"
-results_files = np.sort(os.listdir(path_to_results))
+path_to_TF_results = "scripts/liu_et_al_tf_evaluation/TF_evaluation_data"
+results_files = np.sort(os.listdir(path_to_TF_results))
 
 for filename in results_files:
     model_name = filename[:-12] # Name minus characters for date and .jsonl filetype
-    data_df = pd.read_json(os.path.join(path_to_results, filename), lines=True)
+    data_df = pd.read_json(os.path.join(path_to_TF_results, filename), lines=True)
     acc = np.mean(data_df['prediction']==data_df['answer'])
     TF_prob_mass = np.mean(data_df['TF_prob_mass'])
     print(f"{model_name}:\nAcc: {acc}\nAverage TF prob mass: {TF_prob_mass}\n")
