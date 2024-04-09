@@ -1,6 +1,6 @@
 # Scope Ambiguities in Large Language Models
 Gaurav Kamath, Sebastian Schuster, Sowmya Vajjala and Siva Reddy.
-To appear in _Transactions of the Association for Computational Linguistics_.
+To appear in _Transactions of the Association for Computational Linguistics_. [[ArXiv]](https://arxiv.org/abs/2404.04332)
 
 This repository contains the code and datasets from the paper _Scope Ambiguities in Large Language Models_. 
 If you have any questions about the paper, code or data, please reach out to the first author at gaurav[dot]kamath[at]mail.mcgill.ca, or create a Github issue.
